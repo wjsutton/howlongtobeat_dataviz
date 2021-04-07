@@ -1,12 +1,59 @@
-﻿Name,ID
-Super Mario Bros ,9371
-Super Mario Bros. 3 ,9373
-Super Mario World ,9387
-Super Mario Allstars ,9369
-Super Mario 64 ,9364
-Super Mario Sunshine ,9386
-Super Mario Galaxy ,9377
-New Super Mario Bros Wii ,6537
-New Super Mario Bros 2 ,6535
-Mario & Luigi: Paper Jam ,32409
-Super Princess Peach,9409
+﻿Name,Release Date,Year,ID
+Donkey Kong (1981),09/07/1981,1981,2681
+Mario Bros.,14/07/1983,1983,5625
+Donkey Kong Jr.,15/07/1983,1983,2692
+Super Mario Bros ,13/09/1985,1985,9371
+Super Mario Bros.: The Lost Levels,03/06/1986,1986,9375
+Super Mario Bros. 2,01/09/1988,1988,9372
+Super Mario Bros. 3 ,23/10/1988,1988,9373
+Super Mario Land,31/07/1989,1989,9380
+Super Mario World ,21/11/1990,1990,9387
+Super Mario Land 2: 6 Golden Coins,21/10/1992,1992,9381
+Super Mario All-Stars,01/08/1993,1993,9369
+Mario is Missing!,01/09/1993,1993,5632
+Wario Land: Super Mario Land 3,21/01/1994,1994,11067
+Donkey Kong,14/06/1994,1994,2682
+Super Mario RPG: Legend of the Seven Stars,09/03/1996,1996,9383
+Super Mario 64 ,23/06/1996,1996,9364
+Super Mario Bros. Deluxe,01/05/1999,1999,9374
+Paper Mario,11/08/2000,2000,6909
+Super Mario Advance,21/03/2001,2001,9366
+Super Mario Advance 2: Super Mario World,14/12/2001,2001,9367
+Super Mario Sunshine ,19/07/2002,2002,9386
+Yoshi's Island: Super Mario Advance 3,20/09/2002,2002,11442
+Super Mario Advance 4: Super Mario Bros. 3,11/07/2003,2003,9368
+Mario & Luigi: Superstar Saga,17/11/2003,2003,5622
+Mario vs. Donkey Kong,01/06/2004,2004,5660
+Paper Mario: The Thousand-Year Door,22/07/2004,2004,6911
+Super Mario 64 DS,21/11/2004,2004,9365
+Super Princess Peach,20/10/2005,2005,9409
+Mario & Luigi: Partners in Time,29/12/2005,2005,5621
+New Super Mario Bros.,15/05/2006,2006,6534
+Mario vs. Donkey Kong 2: March of the Minis,25/09/2006,2006,5661
+Super Paper Mario,19/04/2007,2007,9407
+Super Mario Galaxy ,01/11/2007,2007,9377
+Mario vs. Donkey Kong: Minis March Again!,08/06/2009,2009,5663
+Mario & Luigi: Bowser's Inside Story,14/09/2009,2009,5619
+New Super Mario Bros Wii ,15/11/2009,2009,6537
+Super Mario Galaxy 2,23/05/2010,2010,9378
+Mario vs. Donkey Kong: Mini-Land Mayhem!,14/11/2010,2010,5662
+Super Mario 3D Land,03/11/2011,2011,9361
+New Super Mario Bros 2 ,28/07/2012,2012,6535
+Paper Mario: Sticker Star,11/11/2012,2012,6910
+New Super Mario Bros. U,18/11/2012,2012,6536
+Mario and Donkey Kong: Minis on the Move,09/05/2013,2013,5664
+Mario & Luigi: Dream Team,12/07/2013,2013,5620
+Super Mario 3D World,21/11/2013,2013,9362
+Mario vs. Donkey Kong: Tipping Stars,05/03/2015,2015,24531
+Super Mario Maker,11/09/2015,2015,19215
+Mario & Luigi: Paper Jam ,03/12/2015,2015,32409
+Paper Mario: Color Splash,07/10/2016,2016,35562
+Super Mario Run,15/12/2016,2016,42171
+Mario + Rabbids Kingdom Battle,29/08/2017,2017,46464
+Mario & Luigi: Superstar Saga + Bowser's Minions,05/10/2017,2017,46569
+Super Mario Odyssey,27/10/2017,2017,42833
+Mario + Rabbids Kingdom Battle - Donkey Kong Adventure,15/05/2018,2018,57958
+Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey,28/12/2018,2018,54122
+New Super Mario Bros. U Deluxe,11/01/2019,2019,63660
+Paper Mario: The Origami King,17/07/2020,2020,78187
+Super Mario 3D World + Bowser's Fury,12/02/2021,2021,82771
