@@ -35,5 +35,11 @@ for i in range(len(mario_game_ids)):
     
 
 print(output_df)
-output_df.to_csv('data\\fastest_mario.csv', index=False)
+
+output_df.game_id = output_df.game_id.astype(int)
+games.ID = games.ID.astype(int)
+
+output_df = pd.merge(output_df, games, left_on='game_id', right_on='ID', how='inner')
+
+output_df.to_csv('data\\fastest_mario.csv', encoding="utf-8-sig", index=False)
 
