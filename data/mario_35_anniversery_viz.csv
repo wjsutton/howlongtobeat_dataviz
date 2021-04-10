@@ -1,0 +1,193 @@
+﻿game_id,game_name,game_image_url,Year,Release Date,gameplay_main,gameplay_main_unit,gameplay_main_label,position,type
+9371,Super Mario Bros.,/games/250px-Super_Mario_Bros._box.png,1985,13/09/1985,2.0,Hours,Main Story,2.0,top_pipe
+9371,Super Mario Bros.,/games/250px-Super_Mario_Bros._box.png,1985,13/09/1985,2.0,Hours,Main Story,0.0,tile
+9371,Super Mario Bros.,/games/250px-Super_Mario_Bros._box.png,1985,13/09/1985,2.0,Hours,Main Story,1.0,tile
+9372,Super Mario Bros. 2,/games/250px-Super_Mario_Bros_2.jpg,1988,01/09/1988,3.0,Hours,Main Story,3.0,top_pipe
+9372,Super Mario Bros. 2,/games/250px-Super_Mario_Bros_2.jpg,1988,01/09/1988,3.0,Hours,Main Story,0.0,tile
+9372,Super Mario Bros. 2,/games/250px-Super_Mario_Bros_2.jpg,1988,01/09/1988,3.0,Hours,Main Story,1.0,tile
+9372,Super Mario Bros. 2,/games/250px-Super_Mario_Bros_2.jpg,1988,01/09/1988,3.0,Hours,Main Story,2.0,tile
+9380,Super Mario Land,/games/250px-Supermariolandboxart.jpg,1989,31/07/1989,1.0,Hours,Main Story,1.0,top_pipe
+9380,Super Mario Land,/games/250px-Supermariolandboxart.jpg,1989,31/07/1989,1.0,Hours,Main Story,0.0,tile
+9373,Super Mario Bros. 3,/games/250px-Super_Mario_Bros._3_coverart.png,1990,12/02/1990,5.0,Hours,Main Story,5.0,top_pipe
+9373,Super Mario Bros. 3,/games/250px-Super_Mario_Bros._3_coverart.png,1990,12/02/1990,5.0,Hours,Main Story,0.0,tile
+9373,Super Mario Bros. 3,/games/250px-Super_Mario_Bros._3_coverart.png,1990,12/02/1990,5.0,Hours,Main Story,1.0,tile
+9373,Super Mario Bros. 3,/games/250px-Super_Mario_Bros._3_coverart.png,1990,12/02/1990,5.0,Hours,Main Story,2.0,tile
+9373,Super Mario Bros. 3,/games/250px-Super_Mario_Bros._3_coverart.png,1990,12/02/1990,5.0,Hours,Main Story,3.0,tile
+9373,Super Mario Bros. 3,/games/250px-Super_Mario_Bros._3_coverart.png,1990,12/02/1990,5.0,Hours,Main Story,4.0,tile
+9387,Super Mario World,/games/250px-Super_Mario_World_Coverart.png,1991,13/11/1991,5.0,Hours,Main Story,5.0,top_pipe
+9387,Super Mario World,/games/250px-Super_Mario_World_Coverart.png,1991,13/11/1991,5.0,Hours,Main Story,0.0,tile
+9387,Super Mario World,/games/250px-Super_Mario_World_Coverart.png,1991,13/11/1991,5.0,Hours,Main Story,1.0,tile
+9387,Super Mario World,/games/250px-Super_Mario_World_Coverart.png,1991,13/11/1991,5.0,Hours,Main Story,2.0,tile
+9387,Super Mario World,/games/250px-Super_Mario_World_Coverart.png,1991,13/11/1991,5.0,Hours,Main Story,3.0,tile
+9387,Super Mario World,/games/250px-Super_Mario_World_Coverart.png,1991,13/11/1991,5.0,Hours,Main Story,4.0,tile
+9381,Super Mario Land 2: 6 Golden Coins,/games/250px-Super_Mario_Land_2_box_art.jpg,1992,21/10/1992,2.0,Hours,Main Story,2.0,top_pipe
+9381,Super Mario Land 2: 6 Golden Coins,/games/250px-Super_Mario_Land_2_box_art.jpg,1992,21/10/1992,2.0,Hours,Main Story,0.0,tile
+9381,Super Mario Land 2: 6 Golden Coins,/games/250px-Super_Mario_Land_2_box_art.jpg,1992,21/10/1992,2.0,Hours,Main Story,1.0,tile
+5632,Mario is Missing!,/games/230px-Mario_is_Missing_NES_cover.PNG,1993,01/09/1993,2.5,Hours,Main Story,2.5,top_pipe
+5632,Mario is Missing!,/games/230px-Mario_is_Missing_NES_cover.PNG,1993,01/09/1993,2.5,Hours,Main Story,0.0,tile
+5632,Mario is Missing!,/games/230px-Mario_is_Missing_NES_cover.PNG,1993,01/09/1993,2.5,Hours,Main Story,1.0,tile
+5632,Mario is Missing!,/games/230px-Mario_is_Missing_NES_cover.PNG,1993,01/09/1993,2.5,Hours,Main Story,2.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,12.0,top_pipe
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,0.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,1.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,2.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,3.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,4.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,5.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,6.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,7.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,8.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,9.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,10.0,tile
+9364,Super Mario 64,/games/Super_Mario_64_box_cover.jpg,1996,23/06/1996,12.0,Hours,Main Story,11.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,15.0,top_pipe
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,0.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,1.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,2.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,3.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,4.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,5.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,6.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,7.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,8.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,9.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,10.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,11.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,12.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,13.0,tile
+9386,Super Mario Sunshine,/games/250px-Super_mario_sunshine.jpg,2002,19/07/2002,15.0,Hours,Main Story,14.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,8.0,top_pipe
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,0.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,1.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,2.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,3.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,4.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,5.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,6.0,tile
+9409,Super Princess Peach,/games/250px-Super_Princess_Peach.jpg,2005,20/10/2005,8.0,Hours,Main Story,7.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,7.0,top_pipe
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,0.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,1.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,2.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,3.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,4.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,5.0,tile
+6534,New Super Mario Bros.,/games/250px-NewSuperMarioBrothers.jpg,2006,15/05/2006,7.0,Hours,Main Story,6.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,13.5,top_pipe
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,0.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,1.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,2.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,3.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,4.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,5.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,6.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,7.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,8.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,9.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,10.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,11.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,12.0,tile
+9377,Super Mario Galaxy,/games/250px-SuperMarioGalaxy.jpg,2007,01/11/2007,13.5,Hours,Main Story,13.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,9.0,top_pipe
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,0.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,1.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,2.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,3.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,4.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,5.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,6.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,7.0,tile
+6537,New Super Mario Bros. Wii,/games/250px-NewSuperMarioBrosWiiBoxart.png,2009,15/11/2009,9.0,Hours,Main Story,8.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,13.5,top_pipe
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,0.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,1.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,2.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,3.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,4.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,5.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,6.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,7.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,8.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,9.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,10.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,11.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,12.0,tile
+9378,Super Mario Galaxy 2,/games/Super_Mario_Galaxy_2_Box_Art.jpg,2010,23/05/2010,13.5,Hours,Main Story,13.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,7.0,top_pipe
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,0.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,1.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,2.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,3.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,4.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,5.0,tile
+9361,Super Mario 3D Land,/games/250px-Super-Mario-3D-Land-Logo.jpg,2011,03/11/2011,7.0,Hours,Main Story,6.0,tile
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,5.5,top_pipe
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,0.0,tile
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,1.0,tile
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,2.0,tile
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,3.0,tile
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,4.0,tile
+6535,New Super Mario Bros. 2,/games/250px-Newsupermariobros2boxart.jpg,2012,28/07/2012,5.5,Hours,Main Story,5.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,10.5,top_pipe
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,0.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,1.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,2.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,3.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,4.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,5.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,6.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,7.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,8.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,9.0,tile
+9362,Super Mario 3D World,/games/Super_Mario_3D_World_box_art.jpg,2013,21/11/2013,10.5,Hours,Main Story,10.0,tile
+19215,Super Mario Maker,/games/MarioMakerImage.jpg,2015,11/09/2015,5.0,Hours,Main Story,5.0,top_pipe
+19215,Super Mario Maker,/games/MarioMakerImage.jpg,2015,11/09/2015,5.0,Hours,Main Story,0.0,tile
+19215,Super Mario Maker,/games/MarioMakerImage.jpg,2015,11/09/2015,5.0,Hours,Main Story,1.0,tile
+19215,Super Mario Maker,/games/MarioMakerImage.jpg,2015,11/09/2015,5.0,Hours,Main Story,2.0,tile
+19215,Super Mario Maker,/games/MarioMakerImage.jpg,2015,11/09/2015,5.0,Hours,Main Story,3.0,tile
+19215,Super Mario Maker,/games/MarioMakerImage.jpg,2015,11/09/2015,5.0,Hours,Main Story,4.0,tile
+42171,Super Mario Run,/games/42171_Super_Mario_Run.jpg,2016,15/12/2016,2.0,Hours,Main Story,2.0,top_pipe
+42171,Super Mario Run,/games/42171_Super_Mario_Run.jpg,2016,15/12/2016,2.0,Hours,Main Story,0.0,tile
+42171,Super Mario Run,/games/42171_Super_Mario_Run.jpg,2016,15/12/2016,2.0,Hours,Main Story,1.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,12.5,top_pipe
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,0.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,1.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,2.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,3.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,4.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,5.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,6.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,7.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,8.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,9.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,10.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,11.0,tile
+42833,Super Mario Odyssey,/games/42833_Super_Mario_Odyssey.jpg,2017,27/10/2017,12.5,Hours,Main Story,12.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,9.0,top_pipe
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,0.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,1.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,2.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,3.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,4.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,5.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,6.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,7.0,tile
+63660,New Super Mario Bros. U Deluxe,/games/63660_New_Super_Mario_Bros_U_Deluxe.jpg,2019,11/01/2019,9.0,Hours,Main Story,8.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,7.0,top_pipe
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,0.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,1.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,2.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,3.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,4.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,5.0,tile
+65004,Super Mario Maker 2,/games/65004_Super_Mario_Maker_2.jpg,2019,28/06/2019,7.0,Hours,Main Story,6.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,8.5,top_pipe
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,0.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,1.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,2.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,3.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,4.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,5.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,6.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,7.0,tile
+82771,Super Mario 3D World + Bowser's Fury,/games/82771_Super_Mario_3D_World__Bowsers_Fury.jpg,2021,12/02/2021,8.5,Hours,Main Story,8.0,tile

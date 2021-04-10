@@ -18,7 +18,7 @@ def get_game_data(id):
 
 
 # Load csv
-games = pd.read_csv('data\\mario_games.csv')
+games = pd.read_csv('data\\mario_games_v2.csv')
 
 mario_game_ids = games['ID']
 
