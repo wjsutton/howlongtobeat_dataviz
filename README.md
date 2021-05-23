@@ -22,3 +22,17 @@ Quick Link
 ### :a: About
 
 A dataviz project reading from [howlongtobeat python library](https://pypi.org/project/howlongtobeatpy/) 
+
+### :thinking: Project Ideas
+
+1 . 35th Anniversery of Mario - which Mario is the fastest to save the princess?
+- List of Games and release years [https://mario.nintendo.com/history/](https://mario.nintendo.com/history/)
+- Games and release years as dataset compatible with howlongtobeatpy: [data/mario_games_v2.csv](https://github.com/wjsutton/howlongtobeat_dataviz/blob/main/data/mario_games_v2.csv)
+- Get game completion times from howlongtobeatpy: [mario_games_completion_times.py](https://github.com/wjsutton/howlongtobeat_dataviz/blob/main/mario_games_completion_times.py)
+- Mario dataset with completion times: [data/fastest_mario.csv](https://github.com/wjsutton/howlongtobeat_dataviz/blob/main/data/fastest_mario.csv)
+
+2. Scatter plot of games 
+- X-axis -> time to complete the main games
+- Y-axis -> time to 100% the game
+- Compare genres, game ratings, impact of DLC - i.e. does the DLC add much additional content
+- Create clusters of games
